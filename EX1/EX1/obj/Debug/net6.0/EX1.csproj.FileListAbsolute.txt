@@ -1,0 +1,14 @@
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.AssemblyInfoInputs.cache
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.AssemblyInfo.cs
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.csproj.CoreCompileInputs.cache
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\bin\Debug\net6.0\EX1.exe
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\bin\Debug\net6.0\EX1.deps.json
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\bin\Debug\net6.0\EX1.runtimeconfig.json
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\bin\Debug\net6.0\EX1.dll
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\bin\Debug\net6.0\EX1.pdb
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.dll
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\refint\EX1.dll
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.pdb
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\EX1.genruntimeconfig.cache
+D:\Users\Matheus\Desktop\C# Projetos\EX1\EX1\obj\Debug\net6.0\ref\EX1.dll

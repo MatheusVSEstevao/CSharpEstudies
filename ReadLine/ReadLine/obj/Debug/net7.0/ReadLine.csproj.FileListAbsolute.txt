@@ -1,0 +1,14 @@
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\bin\Debug\net7.0\ReadLine.exe
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\bin\Debug\net7.0\ReadLine.deps.json
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\bin\Debug\net7.0\ReadLine.runtimeconfig.json
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\bin\Debug\net7.0\ReadLine.dll
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\bin\Debug\net7.0\ReadLine.pdb
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.AssemblyInfoInputs.cache
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.AssemblyInfo.cs
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.csproj.CoreCompileInputs.cache
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.dll
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\refint\ReadLine.dll
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.pdb
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ReadLine.genruntimeconfig.cache
+D:\Users\Matheus\Desktop\C# Projetos\ReadLine\ReadLine\obj\Debug\net7.0\ref\ReadLine.dll
